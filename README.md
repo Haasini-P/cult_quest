@@ -1,18 +1,4 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/0c800d49-3144-4f9b-8f8b-f48cee2c22e1
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/0c800d49-3144-4f9b-8f8b-f48cee2c22e1) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
+# Welcome to CultQuest
 
 **Use your preferred IDE**
 
@@ -59,10 +45,6 @@ This project is built with .
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0c800d49-3144-4f9b-8f8b-f48cee2c22e1) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
